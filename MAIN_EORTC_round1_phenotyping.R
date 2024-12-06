@@ -12,8 +12,8 @@ library(data.table)
 #-------------------------------------------------------------------------------
 #-------------------------------------------------------------------------------
 #-------------------------------------------------------------------------------
-path_eortc_txt <- "/media/gman/My Passport/2.ForthOneDrive/OneDrive - ΙΔΡΥΜΑ ΤΕΧΝΟΛΟΓΙΑΣ ΚΑΙ ΕΡΕΥΝΑΣ/PROJECTS/multiplex_work_directory/"
-path <- file.path(path_eortc_txt , 'EORTIC_MultiplexAnalysis/github_code')
+path_eortc_txt <- "inform metadata folder"
+path <- file.path('working path')
 setwd(path)
 
 #help functions
